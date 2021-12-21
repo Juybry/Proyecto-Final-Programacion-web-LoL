@@ -2,7 +2,7 @@
 Proyecto final de programacion web
 
 Asignatura Programacion Web
-br
+<br>
 Bryan Lucero
 Alejandro Garcia
 Luis Rios 
